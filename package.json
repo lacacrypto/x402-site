@@ -1,7 +1,6 @@
 {
   "name": "x402-site",
   "version": "1.0.0",
-  "description": "x402 Payment Site",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
